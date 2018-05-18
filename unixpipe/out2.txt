@@ -1,0 +1,10 @@
+Redirected to file
+total 48
+-rw-rw-r-- 1 betsy betsy   17 Feb 19 18:37 animals.txt
+-rwxrwxr-x 1 betsy betsy 9120 Feb 19 22:17 a.out
+-rw-rw-r-- 1 betsy betsy  511 Feb 12 15:43 io.c
+-rw-rw-r-- 1 betsy betsy  661 Feb 19 22:17 ioredirect.c
+-rw-rw-r-- 1 betsy betsy   66 Feb 19 18:40 list.txt
+-rw------- 1 betsy betsy   19 Feb 19 22:17 out2.txt
+-rwxrwxr-T 1 betsy betsy    9 Feb 12 15:44 out.txt
+-rwxrwxr-x 1 betsy betsy 8968 Feb 12 15:44 xio

@@ -1,0 +1,8 @@
+animals.txt
+a.out
+io.c
+ioredirect.c
+list.txt
+out2.txt
+out.txt
+xio

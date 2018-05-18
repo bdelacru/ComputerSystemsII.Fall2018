@@ -1,0 +1,7 @@
+animals.txt
+a.out
+copyexecmd.c
+execmd.c
+list.txt
+ls > list
+
